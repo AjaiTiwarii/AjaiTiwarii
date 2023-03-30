@@ -52,6 +52,7 @@
         }
         .intro{
             padding-top: 250px;
+            margin-top: 0px;
         }
         .skill tr{
             text-align: center;
@@ -133,18 +134,18 @@
     body{
         font-family: 'Ubuntu', sans-serif;
     }
-    .bottom_bar li{
-        list-style: none;
-        float: left;
-        margin-left: 120px;
-        margin-right: 120px;
-        padding: 25px;
-    }
+    
     .bottom_bar{
         background-color: lavender;
         overflow: auto;
     }
-    .bottom_bar a:hover{
+    .links a:hover{
         opacity: calc(75%); 
     }
+    .links{
+        list-style: none;
+        float: left;
+        padding-left: 0px;
+    } 
+    /*animations*/
     
