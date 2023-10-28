@@ -1,3 +1,13 @@
-### Hi there 👋
+# Hello, I'm Ajay Tiwari 👋
 
-Welcome to my personal portfolio repository! This repository serves as a showcase of my skills and projects. Feel free to explore the various sections to get a better understanding of my work.
+I'm a Computer Science Undergraduate Student at Indian Institute of Information Technology, Kalyani.
+
+## 🌱 I am currently honing my skills in DSA and APP DEV.
+
+- Flutter
+
+## 📫 How to reach me
+
+- Email: ajait0209@gmail.com
+
+
