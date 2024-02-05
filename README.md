@@ -2,7 +2,7 @@
 
 I'm a Computer Science Undergraduate Student at Indian Institute of Information Technology, Kalyani.
 
-## 🌱 I am currently honing my skills in DSA and APP DEV.
+## 🌱 I am currently honing my skills in DSA.
 
 - Flutter
 
